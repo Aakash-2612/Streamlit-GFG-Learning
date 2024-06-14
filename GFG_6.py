@@ -2,7 +2,6 @@ import time
 import numpy as np
 import pandas as pd
 import streamlit as st
-import emoji
 
 st.set_page_config(page_title='GeeksForGeeks', layout='wide')
 cases = []
